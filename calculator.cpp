@@ -1,3 +1,5 @@
+// 계산기
+
 int plus(int a, int b){
 	return a + b;
 }
