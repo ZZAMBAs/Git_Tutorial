@@ -11,3 +11,7 @@ double plus(double a, double b){
 char plus(char a, char b){
 	return a + b;
 }
+
+int multiply(int a, int b){
+	return a * b;
+}
