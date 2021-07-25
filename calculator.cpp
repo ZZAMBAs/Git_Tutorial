@@ -16,6 +16,6 @@ int multiply(int a, int b){
 	return a * b;
 }
 
-int devide_premium(int a, int b){
+int devide_new(int a, int b){
 	return a / b;
 }
