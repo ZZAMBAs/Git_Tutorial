@@ -15,3 +15,7 @@ char plus(char a, char b){
 int multiply(int a, int b){
 	return a * b;
 }
+
+int devide(int a, int b){
+	return a / b;
+}
