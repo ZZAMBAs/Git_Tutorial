@@ -19,7 +19,3 @@ int multiply(int a, int b){
 int devide_new(int a, int b){
 	return a / b;
 }
-
-void say_hello(){
-	std::cout << "Hello!" << std::endl;
-}
