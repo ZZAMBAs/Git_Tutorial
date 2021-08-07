@@ -19,7 +19,3 @@ int multiply(int a, int b){
 int devide_free(int a, int b){
 	return a / b;
 }
-
-int square(int a){
-	return a * a;
-}
